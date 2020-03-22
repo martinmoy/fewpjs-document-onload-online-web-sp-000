@@ -2,6 +2,6 @@
 let text = document.getElementById("text");
 
 
-document.addEventListener("DOMContentLoaded", function() {
+text.addEventListener("DOMContentLoaded", function() {
   text = "This is really cool!";
 });
