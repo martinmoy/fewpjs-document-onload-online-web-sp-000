@@ -3,5 +3,5 @@ let text = document.getElementById("text");
 
 
 document.addEventListener("DOMContentLoaded", function() {
-  console.log("The DOM has loaded");
+  text = "This is really cool!";
 });
